@@ -32,14 +32,7 @@ There's also two approach in DEA:
 <li>output oriented = maximizing output using a particular combination of input</li>
 </ul>
 
-# Step of Project  
-1. Loading Packages    
-2. Import Data    
-3. Select Input and Output    
-4. Calculate Efficiency   
-5. Measure Slack    
-6. Plot Frontier    
-
+# Step of Project    
 ## Loading Packages   
 The first step is to load the Benchmarking package using library function. This package contains methods to estimate and measure efficiency using DEA and SFA. 
 ```{r, message=FALSE, warning=FALSE}
