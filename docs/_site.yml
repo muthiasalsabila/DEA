@@ -1,7 +1,6 @@
 name: "Efficiency"
-navbar
+navbar:
   title: "Efficiency"
   left:
     - text: "DEA"
       href: index.html
-output_dir: "docs"
